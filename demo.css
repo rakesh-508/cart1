@@ -1,0 +1,31 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.container-fluid
+{
+
+    height:3rem ;
+    margin:0% ;
+    padding:0% ;
+    background-color: darkgray ;
+} 
+
+.col-sm-3
+{
+    padding: 10px;
+    text-align: center;
+    color: black; 
+    background-color: rgb(12, 12, 12);
+}
+.r1:hover .rak1
+{
+    
+    display: block;
+}
+.rak1
+{
+    display: none;
+}
+
